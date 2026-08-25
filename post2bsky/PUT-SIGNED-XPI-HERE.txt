@@ -1,0 +1,1 @@
+After Mozilla signs v3.4.13, place/rename the signed file here as Post2Bsky-v3.4.13.xpi

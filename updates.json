@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "post-current-page-to-bluesky@local": {
+      "updates": [
+        {
+          "version": "3.4.13",
+          "update_link": "https://ferl67.github.io/ferl-extensions/post2bsky/Post2Bsky-v3.4.13.xpi"
+        }
+      ]
+    }
+  }
+}
