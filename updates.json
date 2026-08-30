@@ -11,8 +11,8 @@
     "nb-latest-cbc-unofficial-test-0102@local": {
       "updates": [
         {
-          "version": "0.11.7",
-          "update_link": "https://ferl67.github.io/ferl-extensions/cbc-news-fetcher/CBC-News-Fetcher-v0.11.7.xpi"
+          "version": "0.11.9",
+          "update_link": "https://ferl67.github.io/ferl-extensions/cbc-news-fetcher/CBC-News-Fetcher-v0.11.9.xpi"
         }
       ]
     }
