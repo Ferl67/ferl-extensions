@@ -3,8 +3,8 @@
     "post-current-page-to-bluesky@local": {
       "updates": [
         {
-          "version": "3.4.17",
-          "update_link": "https://ferl67.github.io/ferl-extensions/post2bsky/Post2Bsky-v3.4.17.xpi"
+          "version": "3.4.18",
+          "update_link": "https://ferl67.github.io/ferl-extensions/post2bsky/Post2Bsky-v3.4.18.xpi"
         }
       ]
     },
