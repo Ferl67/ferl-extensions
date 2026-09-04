@@ -15,6 +15,14 @@
           "update_link": "https://ferl67.github.io/ferl-extensions/cbc-news-fetcher/CBC-News-Fetcher-v0.11.9.xpi"
         }
       ]
+    },
+    "pageflow@local": {
+      "updates": [
+        {
+          "version": "0.3.1",
+          "update_link": "https://ferl67.github.io/ferl-extensions/pageflow/PageFlow-v0.3.1.xpi"
+        }
+      ]
     }
   }
 }
